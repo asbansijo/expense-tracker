@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# expense-tracker
+React application to track your expenses and income, and calculate your net balance
+Add Expense/Income: Enter an amount, description, and type (Expense or Income).
+Delete Expense/Income: Remove any transaction.
+Net Balance: View the total income, total expenses, and net balance.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technologies Used
+React:for building the user interface.
+CSS: Custom styles to design the application.
+
+
 
 ## Available Scripts
 
